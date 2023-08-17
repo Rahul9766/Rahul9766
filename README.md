@@ -4,7 +4,7 @@
 
 
 
-<h3 align="center">Dedicated Data Science enthusiast adept at extracting insights from data, transforming complexity into clarity.</h3>
+<h3 align="center">Dedicated Data Science enthusiast adept at extracting insights from data,<br> transforming complexity into clarity.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
