@@ -2,23 +2,23 @@
 
 <div align="center"> <img src="https://github.com/Rahul9766/Rahul9766/blob/d51c418ed97c7a719cd4a52c7c6d3080b5f7571c/banner.png"> </div>
 
-
-
 <h3 align="center">Dedicated Data Science enthusiast adept at extracting insights from data,<br> transforming complexity into clarity.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-<p align="left"><img  src="https://visitor-badge.laobi.icu/badge?page_id=Rahul9766.Rahul9766&left_text=Profile Views"  /></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahul9766&label=Profile%20views&color=0e75b6&style=flat" alt="Rahul9766" /> </p>
 
 
-
 -📊I am a "Self-Taught Data Analyst".
+
 -🎓Driven by a Passion for Analysis and Insights.
+
 -📈Motive to learn Data Science: To solve real-life problems.
+
 -👩‍💻Dedicated to learning new data technologies.
+
 -🔍Strong Enthusiasm for: Data Analysis and Visualization.
--📫 How to reach me **rbhujbal00@gmail**
+
 
 ###
 
