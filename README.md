@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone 👋, I'm Rahul Bhujbal</h1>
 
-<div align="center"> <img src="https://github.com/Rahul9766/Rahul9766/blob/main/banner.JPG"> </div>
+<div align="center"> <img src="https://github.com/Rahul9766/Rahul9766/blob/main/banner.png"> </div>
 
 
 
