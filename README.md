@@ -1,8 +1,7 @@
 <h1 align="center">Hey Everyone 👋, I'm Rahul Bhujbal</h1>
 
 ###
-
-<div align="center"> <img src="![banner](https://github.com/Rahul9766/Rahul9766/assets/92518687/c556be0d-d1ca-42e6-9570-1eafcd4608f5)"> </div>
+![banner](https://github.com/Rahul9766/Rahul9766/assets/92518687/c556be0d-d1ca-42e6-9570-1eafcd4608f5)"
 
 ###
 
