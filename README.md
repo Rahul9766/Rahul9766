@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone 👋, I'm Rahul Bhujbal</h1>
 
-<div align="center"> <img src="https://github.com/Rahul9766/Rahul9766/blob/main/banner.png"> </div>
+<div align="center"> <img src="https://images.datacamp.com/image/upload/f_auto,q_auto:best/v1610040100/Linkedin_Cover_-_Data_Professional_vowtyw.png"> </div>
 
 
 
