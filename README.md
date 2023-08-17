@@ -8,18 +8,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahul9766&label=Profile%20views&color=0e75b6&style=flat" alt="Rahul9766" /> </p>
 
+<p>
+-📊I am a "Self-Taught Data Analyst".<br>
 
--📊I am a "Self-Taught Data Analyst".
+-🎓Driven by a Passion for Analysis and Insights.<br>
 
--🎓Driven by a Passion for Analysis and Insights.
+-📈Motive to learn Data Science: To solve real-life problems.<br>
 
--📈Motive to learn Data Science: To solve real-life problems.
+-👩‍💻Dedicated to learning new data technologies.<br>
 
--👩‍💻Dedicated to learning new data technologies.
+-🔍Strong Enthusiasm for: Data Analysis and Visualization.<br>
 
--🔍Strong Enthusiasm for: Data Analysis and Visualization.
-
-
+</p>
 ###
 
 <h2 align="left">Connect with me:</h2>
