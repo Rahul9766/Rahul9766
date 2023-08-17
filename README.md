@@ -74,9 +74,6 @@
   <img src="https://streak-stats.demolab.com?user=Rahul9766&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<br>
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Rahul9766&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 ### 📈 My GitHub Contributions
 <img src="https://raw.githubusercontent.com/Rahul9766/Rahul9766/output/snake.svg" alt="Snake animation" />
