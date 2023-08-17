@@ -11,7 +11,7 @@
 
 
 
-<p>
+<p align="left">
 -📊I am a "Self-Taught Data Analyst".<br>
 
 -🎓Driven by a Passion for Analysis and Insights.<br>
@@ -23,7 +23,6 @@
 -🔍Strong Enthusiasm for: Data Analysis and Visualization.<br>
 
 </p>
-###
 
 <h2 align="left">Connect with me:</h2>
 
