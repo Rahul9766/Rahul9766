@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone 👋, I'm Rahul Bhujbal</h1>
 
-<div align="center"> <img src="https://raw.githubusercontent.com/Rahul9766/Rahul9766/banner.png"> </div>
+<div align="center"> <img src="https://github.com/Rahul9766/Rahul9766/blob/1ed730847b0dc4c698910ed921d4d0ad15f71b84/banner.png"> </div>
 
 <h3 align="center">Dedicated Data Science enthusiast adept at extracting insights from data,<br> transforming complexity into clarity.</h3>
 
