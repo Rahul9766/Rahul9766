@@ -4,9 +4,11 @@
 
 <h3 align="center">Dedicated Data Science enthusiast adept at extracting insights from data,<br> transforming complexity into clarity.</h3>
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahul9766&label=Profile%20views&color=0e75b6&style=flat" alt="Rahul9766" /> </p>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p>
 -📊I am a "Self-Taught Data Analyst".<br>
