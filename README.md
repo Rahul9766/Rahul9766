@@ -54,7 +54,7 @@
 
 
 ### 📈 My GitHub Contributions
-<img src="https://raw.githubusercontent.com/Rahul9766/Rahul9766/output/snake.svg" alt="Snake animation" />
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
 
 
 
