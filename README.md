@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahul9766&label=Profile%20views&color=0e75b6&style=flat" alt="Rahul9766" /> </p>
 
-
+<p align="right"> <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" /></p>
 
 <p align="left">
 - 📊 I am a "Self-Taught Java Developer." <br>
