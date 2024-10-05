@@ -2,7 +2,7 @@
 
 <div align="center"> <img src="https://github.com/Rahul9766/Rahul9766/blob/1ed730847b0dc4c698910ed921d4d0ad15f71b84/banner.png"> </div>
 
-<h3 align="center">Dedicated Data Science enthusiast adept at extracting insights from data,<br> transforming complexity into clarity.</h3>
+<h3 align="center">Dedicated Java Application Developer adept at crafting efficient solutions, transforming complexity into clarity.</h3>
 
 <img align="right" alt="Coding" width="400"  src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
@@ -12,16 +12,15 @@
 
 
 <p align="left">
--📊I am a "Self-Taught Data Analyst".<br>
+- 📊 I am a "Self-Taught Java Developer." <br>
 
--🎓Driven by a Passion for Analysis and Insights.<br>
+- 🎓 Driven by a Passion for Software Development and Problem-Solving. <br>
 
--📈Motive to learn Data Science: To solve real-life problems.<br>
+- 📈 Motivated to learn Java technologies: To create impactful real-world applications. <br>
 
--👩‍💻Dedicated to learning new data technologies.<br>
+- 👩‍💻 Committed to mastering new development frameworks and tools. <br>
 
--🔍Strong Enthusiasm for: Data Analysis and Visualization.<br>
-
+- 🔍 Strong Enthusiasm for: Backend Development and Application Architecture. <br>
 </p>
 
 <h2 align="left">Connect with me:</h2>
