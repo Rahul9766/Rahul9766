@@ -1,6 +1,6 @@
 <h1 align="center">Hey Everyone 👋, I'm Rahul Bhujbal</h1>
 
-<div align="center"> <img src="https://github.com/Rahul9766/Rahul9766/blob/1ed730847b0dc4c698910ed921d4d0ad15f71b84/banner.png"> </div>
+<div align="center"> <img src="https://github.com/Rahul9766/Rahul9766/blob/9bfa38147b56c1426a83aa722c463cae56c83cd1/Banner.png"> </div>
 
 <h3 align="center">Dedicated Java Application Developer adept at crafting efficient solutions, transforming complexity into clarity.</h3>
 
