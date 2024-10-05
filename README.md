@@ -7,7 +7,7 @@
 
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Rahul9766&label=Profile%20views&color=0e75b6&style=flat" alt="Rahul9766" /> </p>
+<img src="https://komarev.com/ghpvc/?username=Rahul9766&label=Profile%20views&color=0e75b6&style=flat" alt="Rahul9766" />
 
 <p align="right" display="flex"> <img alt="Coder GIF" height=250 width=350 src="https://miro.medium.com/max/1360/0*7Q3yvSIv_t0ioJ-Z.gif" /></p>
 
